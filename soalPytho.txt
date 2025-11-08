@@ -1,0 +1,9 @@
+1.buat program python cetak angka dari 1-100!
+2.buat program python cetak angka ganjil 1-100!
+3.buat program python cetak pettren! 
+	*
+	**
+	***
+	****
+	*****
+4.buat program python untuk menghitung luas persegi panjang!

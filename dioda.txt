@@ -1,0 +1,7 @@
+cara kerja dioda
+akan menjadi konduktor jika anaoda tersambung ke kutub positif dan katoda tersambung ke kutub negatif
+akan menjadi isolator jika anoda tersambung ke kutub negatif dan katoda tersambung ke kutub positif
+konduktor = penghantar listrik
+isolator  = penghambat arus listrik
+
+apa itu arus AC

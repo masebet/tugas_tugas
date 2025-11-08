@@ -1,0 +1,53 @@
+Perintah untuk aplikasi git
+[buat akun git]
+git config --global user.name "masebet"
+git config --global user.email "mas.ebet@gmail.com"
+git config --list
+hapus credensial windows
+
+untuk pull
+git clone https://github.com/masebet/Samsung_semesterSatu_SesiDua.git
+
+untuk push
+[add file]
+git add .
+git commit -m "server jdango test"
+git push origin main
+git log
+
+
+
+more command shoud you know
+cd [ke folder]
+echo test > [nama file]
+del [file]
+mkdir [namaFolder]
+rmdir \s \q [folder]
+
+start .
+explorer .
+
+set inveriomen variable sublim
+subl [file]
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <repository_URL>
+git push -u origin main
+
+
+
+
+[login github di chrome]
+git config --global user.name "masebet"
+git config --global user.email "mas.ebet@gmail.com"
+[hapus credensial windows]
+
+untuk pull
+git clone https://github.com/masebet/Samsung_semesterSatu_SesiDua.git
+
+untuk push
+git add .
+git commit -m "ini pesan terserah"
+git push origin main

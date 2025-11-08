@@ -1,0 +1,29 @@
+py -m pip install Django==5.2.5
+py -m django --version
+
+cd Desktop
+mkdir terserah
+django-admin startproject mysite terserah
+cd terserah
+python manage.py runserver
+buka web kunjungi http://127.0.0.1:8000/
+
+python manage.py startapp polls
+
+[
+baca hal 19 & 20
+edit file "polls/views.py"
+buat file "polls/urls.py"
+edit file "mysite/urls.py"
+]
+
+python manage.py runserver
+http://127.0.0.1:8000/polls
+
+jika eer
+[
+pip install virtualenv
+virtualenv newenv
+newenv\Scripts\activate.bat
+py -m pip install Django==5.2.5
+]
